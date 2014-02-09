@@ -1,6 +1,4 @@
-#PhillyPoSH Meeting Materials for Feb 6th, 2014
----
-
+#Meeting Materials for Feb 6th, 2014
 - **Date**: February 6, 2014
 - **Speaker**: Art Beane
 - **Topic**: Using PowerShell to automate applications using [COM](http://www.microsoft.com/com/default.mspx).
